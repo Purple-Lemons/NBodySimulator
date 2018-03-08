@@ -1,4 +1,4 @@
-#NBodySimulator
+# NBodySimulator
 
 This project simulates a planet with many moons which each exert gravity on each other.
 The program displays the orbital path of each moon, which changes as other moons gravity
